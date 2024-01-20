@@ -1,7 +1,7 @@
 #include "monty.h"
 bus_t bus = {NULL, NULL, NULL, 0};
 /**
-* main -this is a function that interprets monty code.
+* main -this function interprets monty code.
 * @argc:it is a number of arguments.
 * @argv:it is monty file location.
 * Return: 0 if success.
