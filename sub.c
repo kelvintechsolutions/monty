@@ -1,10 +1,11 @@
 #include "monty.h"
 /**
-  *f_sub-it is sustration.
-  *@head:it is the stack head.
-  *@counter:the line_number.
-  *Return:it has no return.
+  *f_sub-this code permits subtraction.
+  *@head:head operand
+  *@counter: second operand
+  *Return:None
  */
+
 void f_sub(stack_t **head, unsigned int counter)
 {
 	stack_t *aux;
