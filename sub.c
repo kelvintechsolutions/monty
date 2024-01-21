@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
-  *f_sub-this code permits subtraction.
+  *f_sub- this code permits subtraction.
   *@head:head operand
   *@counter: second operand
   *Return:None
