@@ -6,6 +6,7 @@
  * @counter: second operand
  * Return:None
 */
+
 void f_mod(stack_t **head, unsigned int counter)
 {
 	stack_t *h;
